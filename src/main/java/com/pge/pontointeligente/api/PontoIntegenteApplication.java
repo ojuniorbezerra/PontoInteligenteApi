@@ -1,0 +1,12 @@
+package com.pge.pontointeligente.api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PontoIntegenteApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PontoIntegenteApplication.class, args);
+	}
+}
